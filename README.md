@@ -14,18 +14,18 @@ There were 369,711 total votes cast across three candidates and counties.
 
 ### County Breakdown
 Below is a breakdown of county votes. This shows name of county, percenatge of total votes and number of votes per county:
-*Jefferson: 10.5% (38,855)
-*Denver: 82.8% (306,055)
-*Arapahoe: 6.7% (24,801)
+Jefferson: 10.5% (38,855)
+Denver: 82.8% (306,055)
+Arapahoe: 6.7% (24,801)
 
 ### Highest County
 Denver had the most votes per any county with a total of 306,055 and 82.8% of total votes. 
 
 ### Candidate Breakdown
 Below is a breakdown of candidate votes. This shows name of candidate, percenatge of total votes and number of votes per candidate:
-*Charles Casper Stockham: 23.0% (85,213)
-*Diana DeGette: 73.8% (272,892)
-*Raymon Anthony Doane: 3.1% (11,606)
+Charles Casper Stockham: 23.0% (85,213)
+Diana DeGette: 73.8% (272,892)
+Raymon Anthony Doane: 3.1% (11,606)
 
 ### Candidate Winner
 Diana DeGette is the winner. She had 272,892 and 73.8% of total votes. 
@@ -33,7 +33,3 @@ Diana DeGette is the winner. She had 272,892 and 73.8% of total votes.
 ## Results
 This python script will easliy work with other elections. It only needs two data points per entry (County and Candidate). The data set that was used only had three candidates and counties. However, the code is dyanmic and wont need to be updated if there are more candidates or counties. I reccomend one addiotnal analysis. we should analzye the ballot id field. This will allow to see if any vote was counted mutliple times. 
 
- Markup : 1. A numbered list
-              1. A nested numbered list
-              2. Which is numbered
-          2. Which is numbered
