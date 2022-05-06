@@ -14,18 +14,18 @@ There were 369,711 total votes cast across three candidates and counties.
 
 ### County Breakdown
 Below is a breakdown of county votes. This shows name of county, percenatge of total votes and number of votes per county:
-Jefferson: 10.5% (38,855)
-Denver: 82.8% (306,055)
-Arapahoe: 6.7% (24,801)
+*Jefferson: 10.5% (38,855)
+*Denver: 82.8% (306,055)
+*Arapahoe: 6.7% (24,801)
 
 ### Highest County
 Denver had the most votes per any county with a total of 306,055 and 82.8% of total votes. 
 
 ### Candidate Breakdown
 Below is a breakdown of candidate votes. This shows name of candidate, percenatge of total votes and number of votes per candidate:
-Charles Casper Stockham: 23.0% (85,213)
-Diana DeGette: 73.8% (272,892)
-Raymon Anthony Doane: 3.1% (11,606)
+*Charles Casper Stockham: 23.0% (85,213)
+*Diana DeGette: 73.8% (272,892)
+*Raymon Anthony Doane: 3.1% (11,606)
 
 ### Candidate Winner
 Diana DeGette is the winner. She had 272,892 and 73.8% of total votes. 
