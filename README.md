@@ -32,3 +32,8 @@ Diana DeGette is the winner. She had 272,892 and 73.8% of total votes.
 
 ## Results
 This python script will easliy work with other elections. It only needs two data points per entry (County and Candidate). The data set that was used only had three candidates and counties. However, the code is dyanmic and wont need to be updated if there are more candidates or counties. I reccomend one addiotnal analysis. we should analzye the ballot id field. This will allow to see if any vote was counted mutliple times. 
+
+ Markup : 1. A numbered list
+              1. A nested numbered list
+              2. Which is numbered
+          2. Which is numbered
